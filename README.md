@@ -1,4 +1,4 @@
 ﻿# advice-generator-app-main
 https://franc51.github.io/advice-generator-app-main
-Mobile friendly
+Only mobile - 600px
 Light JS
